@@ -1,4 +1,7 @@
 ## Default tailwind.config.ts file for Next.js project
+
+### Work on both TS and JS Project (If Project Support Both)
+
 - If ``npx tailwindcss init -p`` not work
 - Manual Create  tailwind.config.ts file
 - And Copy this Default Config for tailwind.config.ts

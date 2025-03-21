@@ -6,7 +6,6 @@ npx create-next-app@latest
 >Installation Docs: https://tailwindcss.com/docs/installation/framework-guides/nextjs
 
 --------
-
 ## 📌 React - Vite Project Setup
 ```sh
 npm create vite@latest
@@ -14,6 +13,7 @@ npm create vite@latest
 - React + Vite + TailwindCSS
 >Installation Docs: https://tailwindcss.com/docs/installation/using-vite
 
+--------
 ## 📌 Vue - Vite Project Setup 
 
 ```sh

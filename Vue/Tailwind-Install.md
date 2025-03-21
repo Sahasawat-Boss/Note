@@ -1,1 +1,0 @@
-npx tailwindcss init -p

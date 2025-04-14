@@ -28,3 +28,7 @@ export default {
 npm run dev
 ```
 ![image](https://github.com/user-attachments/assets/330f3327-a463-43d9-b3e9-6e9815160471)
+
+-------------------
+# New Update >> no need TW config
+https://tailwindcss.com/docs/installation/using-vite

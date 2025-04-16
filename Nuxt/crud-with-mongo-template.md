@@ -1,5 +1,7 @@
 # a User Management CRUD application using Nuxt 3 and MongoDB
 
+Some resource: https://github.com/ReaganM02/nuxt3-mongodb-crud
+
 ## Project Setup
 1. Initialize Nuxt 3 Project
 2. Install Dependencies ```npm install mongoose```
